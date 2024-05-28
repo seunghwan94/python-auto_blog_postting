@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "autotistoryv4",
+  "private_key_id": "14a45ae26f049794a5c61e56346787b750a6e061",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZFDYoJhAofM85\n15qSY09D/+LSNyfVqrUd1RvZEq3o6wzi0IxPEy6CGXh/+ciYhzu479zV6UK1Jj6r\njkhVj+xCQykB57nYMbQJJcU/1csxpbK/36il/6rU9RBEK5NU/nr+KptLOQHK2hjK\nm1kdsvqwCckDiVd1Iu4EEGXD4Mu1e4DFM1lnigUV4AOYVDcssj1fMBzm34JGTIW2\nr2hzXXrsWnp42mDAtPQYD0Vx121z3LBuOoyoy+C6sbsKJQwzj6lGu1nEvOLII4Ge\n3+M4EE4x6EsXR5ecRcOajLA0sH1w6S9E49gfsB3uXiz22mpZ8kWt+ogoFEKg30b0\nIWlxW12nAgMBAAECggEAE0sDVQW7FUc/B49qDqzP4YZKIZbMVqHIaEVNgwssz7Ae\n3yVL/G6yoWNcFxELBwJK9NDdAzl+FqkGeVvE4m0caJuLUGSoEnHtOsE/vim6uCal\n7oiIpRH3MhYy4cyg1IkARQa8rNCMrnLUxhBUkn7WGULFIBolY4DZVmTKAVPUiNT2\nk0JaC1+z7bWUeo2s9MWlcCNlMkIA5cJnHktySc+MjJOdzmBnHqNPiVAuDQ16Ua/D\nGb8QMXaXmjMozQ2S/WT9wMViSWbwk3EJXsbaMEaXc+ZdDxpCizBK+oVQSZoPu3PS\nbtO9BXpdmva4Nh+XHYhem+xmM7cDeZ/aKxL6YX7mvQKBgQDKxunX2mlnMhT+bU5C\n/rAJy/YamYk2kDJpZhbblAkuywXDX5Dgy7zY/TnJQ/CkcApqKx/jBxAsmCgSF6Ck\nIvUXakpcaeUdSwdf/ckE6u348HoVfIPyiQZU7S5i7/eBMALSGRscYV7n9Dk5WunD\nXoYxHLXz5kmJvTIROElis5fVowKBgQDBQfahd6rL5FCDWngktjdRTJu0h6PGOvNt\n9J7/3tVRFyT74jNEcsnzjFxvM40+hBhgsaxNY7je8sd4lK2oR2aQQb58nXTA5SFl\nTx2Fzl4kpIw88iPf6uzhqceSUbFdu3y8qYDdTXK0+PjWYyP5nJ0ssnDcDgQVxa4t\nV44dHTbwLQKBgBjCRNcoQeppwQp3yjB/7HqlvrzstkZFQQKBhpT09FIUU/XQ+12X\nQs2zzZR3iTBqxbrE3TXZLO5k/a+H1wNziT18quuxulnjSVk9IYhKLxhQNHffJjU8\n6dsAwsMtzaimdhG1IwxKD05/EWWhZh2GsxfYC5dmLOB2i2By4PL+PrHFAoGAMQDy\n8tqPOog4SjZkhJqXyEuup8ZFJvzHwTfoIWV1ncxKmnwvF8orn1AWGDRwOkvwioRC\n9pS0ygOxxMeeiS8huK6TCLI8arUvFKtNByLfCFeZH9MeeabuTgJpEpcYbHYgGQ66\nGGONFIqVPneBJcgqqqzMpWAAdSzdD65F4OgJiDkCgYB/DN4bUWrQvkzycDxyE2Rw\n9+F+THR19XjR9C2fAPbH6l4srV6CmcW8MDoXDjAAqjQty7h2YzXBOlHUQSrR0IJB\nBx8otFVn5oJIOn9M2XQo5e1Lu2mO8lDcRWe7/6out7ab6S3SXSgOvASa4CKAAAMs\nxIbgn8Va1CmXfH0YcDUnQg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "autotistoryv4@autotistoryv4.iam.gserviceaccount.com",
+  "client_id": "106384903683017651506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autotistoryv4%40autotistoryv4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
